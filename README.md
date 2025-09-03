@@ -2,6 +2,34 @@
 This project is a full-stack webb app for creating, managing and organizing notes.
 The application is a Single Page Application (SPA) with a RESTful API backend and a React frontend.
 
+✨ Main Features
+
+🔐 Secure authentication with JWT.
+
+👤 Each note is linked to the user who created it.
+
+🗂️ Notes management: create, edit, delete, and archive.
+
+🏷️ Tag filtering and note search.
+
+📄 Pagination for a smoother experience.
+
+📅 Automatic CreatedAt and UpdatedAt fields in notes.
+
+🎨 Frontend built with React + TailwindCSS, backend with ASP.NET Core Web API.
+
+🛠️ Technologies Used
+
+Backend: ASP.NET Core, Entity Framework Core, SQL Server
+
+Frontend: React, Vite, TailwindCSS
+
+Authentication: JSON Web Tokens (JWT)
+
+ORM: EF Core with migrations
+
+Database: SQL Server Express / LocalDB
+
 ### 1. Requirements
 The application requires the following tools and runtimes:
 
