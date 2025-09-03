@@ -108,5 +108,5 @@ To set up and run the application, you can use the provided `run.sh` script or f
 
 The application includes a pre-configured user for demonstration purposes:
 
-* **Username**: `EnsolversDev`
+* **Username**: `admin`
 * **Password**: `123456`
